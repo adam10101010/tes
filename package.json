@@ -1,0 +1,12 @@
+{
+  "name": "example_rpc",
+  "version": "1.0.0",
+  "description": "Rich presence for my tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+     "run": "nodemon index.js"
+  },
+  "author": "SidPlayz",
+  "license": "ISC"
+}
